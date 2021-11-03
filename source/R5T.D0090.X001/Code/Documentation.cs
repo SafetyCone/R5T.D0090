@@ -1,10 +1,10 @@
 using System;
 
 
-namespace R5T.D0090.Construction
+namespace R5T.D0090.X001
 {
     /// <summary>
-    /// Construction project for ProgramAsAServiceBase implementation..
+    /// Basic extensions.
     /// </summary>
     public static class Documentation
     {
